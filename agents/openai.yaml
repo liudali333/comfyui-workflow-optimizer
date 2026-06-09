@@ -1,0 +1,4 @@
+interface:
+  display_name: "ComfyUI Workflow Optimizer"
+  short_description: "Tune ComfyUI JSON for 3060 12G"
+  default_prompt: "Optimize this ComfyUI workflow JSON for my RTX 3060 12GB setup, prefer local equivalent models under D:\\ComfyUI\\models, and report missing nodes or models."
